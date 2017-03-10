@@ -1,0 +1,8 @@
+Package: builder-maven
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash, mvn
+Maintainer: Thibaut Nouguier <nouguier.thibaut@gmail.com>
+Description: Test du builder avec maven
