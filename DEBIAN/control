@@ -3,6 +3,6 @@ Version: 1.0.0
 Section: base
 Priority: optional
 Architecture: all
-Depends: bash, mvn
+Depends: bash, maven
 Maintainer: Thibaut Nouguier <nouguier.thibaut@gmail.com>
 Description: Test du builder avec maven
